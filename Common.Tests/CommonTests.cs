@@ -10,5 +10,11 @@ namespace AlanBlunden.Common.Tests
         {
             Assert.AreEqual("hello", Common.HELLO);
         }
+
+        [TestMethod]
+        public void TestWORLDReturnsWorld()
+        {
+            Assert.AreEqual("world", Common.WORLD);
+        }
     }
 }
