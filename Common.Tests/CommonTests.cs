@@ -1,6 +1,4 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using AlanBlunden.Common;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace AlanBlunden.Common.Tests
 {
