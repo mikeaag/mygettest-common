@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Common
+namespace AlanBlunden.Common
 {
-    public class Class1
+    public class Common
     {
     }
 }
